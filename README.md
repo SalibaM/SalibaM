@@ -1,6 +1,6 @@
 ### Opa, tudo bom? 😄
 
-• 🎓 Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU), e atualmente estou no 4° período
+• 🎓 Estudo Ciência da Computação na Universidade Federal de Uberlândia (UFU), e atualmente estou no 5° período
 
 • ⚙️ Linguagens que estudei até agora: **C**, **Java**, **HTML**, **CSS**, **Prolog**, **Haskell**, **Assembly (MIPS)**, **SQL(PostgresSQL)** e **R**
 
