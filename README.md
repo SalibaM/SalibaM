@@ -4,6 +4,6 @@
 
 • ⚙️ Linguagens que estudei até agora: **Python**, **C**, **Java**, **HTML**, **CSS**, **Prolog**, **Haskell**, **Assembly (MIPS)**, **SQL(PostgresSQL)** e **R**
 
-• 📁 Meus repositórios são compostos de trabalhos, laboratórios e muitas outras coisas das disciplinas do curso
+• 📁 Meus repositórios são compostos de projetos pessoais, trabalhos, laboratórios e muitas outras coisas das disciplinas do curso
 
 • 📫 @matheus.saliba
